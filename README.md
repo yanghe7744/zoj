@@ -1,2 +1,2 @@
 # zoj
-Solutions to accepted problems on Zhengjiang University Online Judge.
+Source code of accepted problems on ZOJ by yanghe7744.
